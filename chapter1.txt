@@ -1,0 +1,6 @@
+Type: Mammal
+Diet: Omnivore
+Protection status: Not Evaluated
+Size: Height at the shoulder: 6 to 33 in (15.2 to 84 cm)
+Weight: 3 to 175 lbs (1.4 to 79 kg)
+Group name: Pack
